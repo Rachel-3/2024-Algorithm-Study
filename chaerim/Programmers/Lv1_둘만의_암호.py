@@ -1,8 +1,11 @@
-string_msg = "Spring is beginning"
-int_val = int(3)
-string_val = str(3)
+def solution(s, skip, index):
+    answer = ''
+    alphabet = [chr(i) for i in range(97, 123)]
+    exclude_alphabet = [letter for letter in alphabet if letter not in skip]
 
+    for letter in s:
+        alphabet_index = exclude_alphabet.index(letter)
+        move_index = (alphabet_index + index) % len(exclude_alphabet)
+        answer += exclude_alphabet[move_index]
 
-print(string_msg)
-print(int_val + 10)
-print(string_val + "10")
+    return answer

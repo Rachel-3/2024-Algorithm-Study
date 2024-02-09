@@ -1,4 +1,4 @@
-#368. Largest Divisible Subset
+# 368. Largest Divisible Subset
 ## Intuition
 * 요소 쌍이 나눙어 떨어지는 가장 큰 부분집합을 찾기
 * 요소들이 나누어 떨어지는 관계를 확인하여 이를 기반으로 부분집합을 구성

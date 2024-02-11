@@ -1,6 +1,3 @@
-def solution(arr, queries):
-    for query in queries:
-        i, j = query
-        arr[i], arr[j] = arr[j], arr[i]
-    
-    return arr
+def solution(num1, num2):
+    answer = num1 + num2
+    return answer

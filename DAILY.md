@@ -19,7 +19,7 @@
 > 3월 2일 - Level1 -
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/161989" target="_blank">덧칠하기</a>
 
-> 3월 3일 - Level1 -
+> 3월 3일 - Level2 -
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/70129" target="_blank">이진 변환 반복하기</a>
 
 > 3월 4일 - Level1 -

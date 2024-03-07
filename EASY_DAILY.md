@@ -18,3 +18,18 @@
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/120895" target="_blank">인덱스 바꾸기</a>
 
 </details>
+
+<details>
+<summary>3월 8일</summary>
+
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/181833" target="_blank">특별한 이차원 배열 1</a>
+
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/181941" target="_blank">문자 리스트를 문자열로 변환하기</a>
+
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/181919" target="_blank">콜라츠 수열 만들기</a>
+
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/181895" target="_blank">배열 만들기 3</a>
+
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/181865" target="_blank">간단한 식 계산하기</a>
+
+</details>

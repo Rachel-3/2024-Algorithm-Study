@@ -1,3 +1,4 @@
+package Level_2;
 class Lv2_이진_변환_반복하기 {
     public int[] solution(String s) {
         int[] answer = new int[2];

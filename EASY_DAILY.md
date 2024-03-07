@@ -33,3 +33,33 @@
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/181865" target="_blank">간단한 식 계산하기</a>
 
 </details>
+
+<details>
+<summary>3월 11일</summary>
+
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/120897" target="_blank">약수 구하기</a>
+
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/181925" target="_blank">수 조작하기 2</a>
+
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/181909" target="_blank">접미사 배열</a>
+
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/120844" target="_blank">배열 회전시키기</a>
+
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/120834" target="_blank">외계행성의 나이</a>
+
+</details>
+
+<details>
+<summary>3월 12일</summary>
+
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/181866" target="_blank">문자열 잘라서 정렬하기</a>
+
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/181930" target="_blank">주사위 게임 2</a>
+
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/120904" target="_blank">숫자 찾기</a>
+
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/181914" target="_blank">9로 나눈 나머지</a>
+
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/120815" target="_blank">피자 나눠 먹기 (2)</a>
+
+</details>

@@ -40,7 +40,13 @@
 > 3월 11일 - Level2 -
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12945" target="_blank">피보나치 수</a>
 
-> 3월 12일 - Lebel2 -
+> 3월 12일 - Level2 -
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12973" target="_black">짝지어 제거하기</a>
+
+> 3월 13일 - Level2 -
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/42842" target="_black">카펫</a>
+
+> 3월 14일 - Level2 -
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/12981" target="_black">영어 끝말잇기</a>
 
 </detail>

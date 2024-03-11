@@ -63,3 +63,33 @@
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/120815" target="_blank">피자 나눠 먹기 (2)</a>
 
 </details>
+
+<details>
+<summary>3월 13일</summary>
+
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/120911" target="_blank">문자열 정렬하기 (2)</a>
+
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/120891" target="_blank">369게임</a>
+
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/181904" target="_blank">세로 읽기</a>
+
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/120846" target="_blank">합성수 찾기</a>
+
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/181931" target="_blank">등차수열의 특정한 항만 더하기</a>
+
+</details>
+
+<details>
+<summary>3월 14일</summary>
+
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/181942" target="_blank">문자열 섞기</a>
+
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/120888" target="_blank">중복된 문자 제거</a>
+
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/181829" target="_blank">이차원 배열 대각선 순회하기</a>
+
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/181838" target="_blank">날짜 비교하기</a>
+
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/181883" target="_blank">수열과 구간 쿼리 1</a>
+
+</details>

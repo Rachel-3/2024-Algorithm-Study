@@ -49,4 +49,6 @@
 > 3월 14일 - Level2 -
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12981" target="_black">영어 끝말잇기</a>
 
+> 3월 15일 - Level2 -
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/12980" target="_black">점프와 순간이동</a>
 </detail>

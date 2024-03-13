@@ -108,3 +108,18 @@
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/181905" target="_blank">문자열 뒤집기</a>
 
 </details>
+
+<details>
+<summary>3월 18일</summary>
+
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/181872" target="_blank">특정 문자열로 끝나는 가장 긴 부분 문자열 만들기</a>
+
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/120842" target="_blank">2차원으로 만들기</a>
+
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/120886" target="_blank">A로 B만들기</a>
+
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/181871" target="_blank">문자열이 몇 번 등장하는지 세기</a>
+
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/120887" target="_blank">k의 개수</a>
+
+</details>

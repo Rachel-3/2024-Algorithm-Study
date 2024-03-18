@@ -51,4 +51,11 @@
 
 > 3월 15일 - Level2 -
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12980" target="_black">점프와 순간이동</a>
+
+> 3월 18일 - Level0 -
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/120866" target="_blank">안전지대</a>
+
+> 3월 19일 - Level2 -
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/42586" target="_blank">기능 개발</a>
+
 </detail>

@@ -56,6 +56,6 @@
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/120866" target="_blank">안전지대</a>
 
 > 3월 19일 - Level2 -
-<a href="https://school.programmers.co.kr/learn/courses/30/lessons/42586" target="_blank">기능 개발</a>
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/42586" target="_blank">기능개발</a>
 
 </detail>

@@ -61,4 +61,7 @@
 > 3월 20일 - Level2 -
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/42747" target="_blank">H-Index</a>
 
+> 3월 21일 - Level0 -
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/42747" target="_blank">H-Index</a>
+
 </detail>

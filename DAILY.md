@@ -58,4 +58,7 @@
 > 3월 19일 - Level2 -
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/42586" target="_blank">기능개발</a>
 
+> 3월 20일 - Level2 -
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/42747" target="_blank">H-Index</a>
+
 </detail>

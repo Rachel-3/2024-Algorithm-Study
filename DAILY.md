@@ -62,6 +62,6 @@
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/42747" target="_blank">H-Index</a>
 
 > 3월 21일 - Level0 -
-<a href="https://school.programmers.co.kr/learn/courses/30/lessons/42747" target="_blank">H-Index</a>
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/120863#" target="_blank">다항식 만들기</a>
 
 </detail>

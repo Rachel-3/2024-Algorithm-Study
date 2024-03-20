@@ -41,16 +41,16 @@
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12945" target="_blank">피보나치 수</a>
 
 > 3월 12일 - Level2 -
-<a href="https://school.programmers.co.kr/learn/courses/30/lessons/12973" target="_black">짝지어 제거하기</a>
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/12973" target="_blank">짝지어 제거하기</a>
 
 > 3월 13일 - Level2 -
-<a href="https://school.programmers.co.kr/learn/courses/30/lessons/42842" target="_black">카펫</a>
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/42842" target="_blank">카펫</a>
 
 > 3월 14일 - Level2 -
-<a href="https://school.programmers.co.kr/learn/courses/30/lessons/12981" target="_black">영어 끝말잇기</a>
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/12981" target="_blank">영어 끝말잇기</a>
 
 > 3월 15일 - Level2 -
-<a href="https://school.programmers.co.kr/learn/courses/30/lessons/12980" target="_black">점프와 순간이동</a>
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/12980" target="_blank">점프와 순간이동</a>
 
 > 3월 18일 - Level0 -
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/120866" target="_blank">안전지대</a>
@@ -62,6 +62,9 @@
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/42747" target="_blank">H-Index</a>
 
 > 3월 21일 - Level0 -
-<a href="https://school.programmers.co.kr/learn/courses/30/lessons/120863#" target="_blank">다항식 만들기</a>
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/120863" target="_blank">다항식 만들기</a>
+
+> 3월 22일 - Level2 -
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/12985" target="_blank">예상 대진표</a>
 
 </detail>

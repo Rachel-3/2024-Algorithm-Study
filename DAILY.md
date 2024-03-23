@@ -67,4 +67,19 @@
 > 3월 22일 - Level2 -
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12985" target="_blank">예상 대진표</a>
 
+> 3월 25일 - Level0 -
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/120871">저주의 숫자 3</a>
+
+> 3월 26일 - Level0 -
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/120878">유한소수 판별하기</a>
+
+> 3월 27일 - Level0 -
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/120921">문자열 밀기</a>
+
+> 3월 28일 - Level0 -
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/120880">특이한 정렬</a>
+
+> 3월 29일 - Level2 -
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/12914">멀리 뛰기</a>
+
 </detail>

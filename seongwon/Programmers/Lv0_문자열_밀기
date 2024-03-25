@@ -7,7 +7,7 @@ using namespace std;
 int solution(string A, string B) {
     int answer = 0;
     list <char> arr;
-    for(char c : A){
+    for(char c : A){    //arr.assign(A.begin(), A.end()); 로 하는게 더 효율적
         arr.push_back(c);
     }
     
@@ -25,7 +25,9 @@ int solution(string A, string B) {
     return answer;
 }
 /*
-첨엔 A(arr.begin(), arr.end()); 로 해서 틀림
+첨엔 A(arr.begin(), arr.end()); 로 해서 틀림(A는 sting객체 arr은list여서)
+*중요*assign 함수 : 다른 컨테이너의 요소를 할당하는 기능을 제공
 A.assign(arr.begin(), arr.end()); 로 해야함 
-A를 새로운 문자열로 업데이트해줌
+ex) assign(InputIt first, InputIt last);
+vector도 assign함수를 제공함
 */

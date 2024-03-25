@@ -1,0 +1,31 @@
+#include <string>
+#include <vector>
+#include <list>
+
+using namespace std;
+
+int solution(string A, string B) {
+    int answer = 0;
+    list <char> arr;
+    for(char c : A){
+        arr.push_back(c);
+    }
+    
+    for(int i = 0; i < arr.size(); i++){
+        if(A == B)
+            break;
+        answer++;
+        arr.push_front(arr.back());    //맨뒤에 원소 맨앞에 넣음
+        arr.pop_back();     //맨뒤에 원소 삭제
+        A.assign(arr.begin(), arr.end());  //A에 arr넣음
+    }
+    if(A != B){
+        answer = -1;
+    }
+    return answer;
+}
+/*
+첨엔 A(arr.begin(), arr.end()); 로 해서 틀림
+A.assign(arr.begin(), arr.end()); 로 해야함 
+A를 새로운 문자열로 업데이트해줌
+*/

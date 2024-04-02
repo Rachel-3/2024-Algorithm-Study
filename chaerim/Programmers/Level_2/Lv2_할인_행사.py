@@ -10,17 +10,8 @@ def solution(want, number, discount):
                 discounted_items[discount[i]] += 1
             else:
                 discounted_items[discount[i]] = 1
-        print(want_dict, discounted_items)
+        
         if want_dict == discounted_items:
             answer += 1
 
     return answer
-
-want1 = ["banana", "apple", "rice", "pork", "pot"]
-number1 = [3, 2, 2, 2, 1]
-discount1 = ["chicken", "apple", "apple", "banana", "rice", "apple", "pork", "banana", "pork", "rice", "pot", "banana", "apple", "banana"]
-print(solution(want1, number1, discount1))
-want2 = ["apple"]
-number2 = [10]
-discount2 = ["banana", "banana", "banana", "banana", "banana", "banana", "banana", "banana", "banana", "banana"]
-print(solution(want2, number2, discount2))

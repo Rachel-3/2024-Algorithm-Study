@@ -14,4 +14,3 @@ public class level_0_특별한_이차원_배열2 {
 		return 1;
 	}
 }
-

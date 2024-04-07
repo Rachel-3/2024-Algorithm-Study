@@ -103,4 +103,19 @@
 > 4월 5일 - Level2 -
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/42578">의상</a>
 
+> 4월 8일 - Level2 -
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/42885">구명보트</a>
+
+> 4월 9일 - Level2 -
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/154539">뒤에 있는 큰 수 찾기</a>
+
+> 4월 10일 - Level2 -
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/12939">최댓값과 최솟값</a>
+
+> 4월 11일 - Level2 -
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/17677">[1차] 뉴스 클러스터링</a>
+
+> 4월 12일 - Level2 -
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/49993">스킬트리</a>
+
 </details>

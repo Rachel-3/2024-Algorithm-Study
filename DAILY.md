@@ -124,6 +124,12 @@
 > 4월 30일 - Level2 -
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/42890">후보키</a>
 
+</details>
+
+### 5월
+<details>
+<summary>접기/펼치기</summary>
+
 > 5월 1일 - Level2 -
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/131701">연속 부분 수열 합의 개수</a>
 

@@ -118,4 +118,19 @@
 > 4월 12일 - Level2 -
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/49993">스킬트리</a>
 
+> 4월 29일 - Level2 -
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/68645">삼각 달팽이</a>
+
+> 4월 30일 - Level2 -
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/42890">후보키</a>
+
+> 5월 1일 - Level2 -
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/131701">연속 부분 수열 합의 개수</a>
+
+> 5월 2일 - Level2 -
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/42587">프로세스</a>
+
+> 5월 3일 - Level2 -
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/12909">올바른 괄호</a>
+
 </details>

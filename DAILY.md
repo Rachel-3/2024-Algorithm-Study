@@ -139,4 +139,13 @@
 > 5월 3일 - Level2 -
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12909">올바른 괄호</a>
 
+> 5월 7일 - Level2 -
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/42626">더 맵게</a>
+
+> 5월 8일 - Level2 -
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/92341">주차 요금 계산</a>
+
+> 5월 9일 - Level2 -
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/42583">다리를 지나는 트럭</a>
+
 </details>

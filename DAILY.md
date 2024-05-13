@@ -148,4 +148,16 @@
 > 5월 9일 - Level2 -
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/42583">다리를 지나는 트럭</a>
 
+> 5월 13일 - Level2 -
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/12941">최솟값 만들기</a>
+
+> 5월 14일 - Level2 -
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/42577">전화번호 목록</a>
+
+> 5월 16일 - Level2 -
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/154538">숫자 변환하기</a>
+
+> 5월 17일 - Level2 -
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/12899">124 나라의 숫자</a>
+
 </details>

@@ -1,4 +1,4 @@
- def solution(s):
+def solution(s):
     answer = len(s)
     
     for step in range(1, len(s) // 2 + 1) :

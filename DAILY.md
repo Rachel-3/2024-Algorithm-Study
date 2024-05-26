@@ -175,4 +175,19 @@
 > 5월 24일 - Level2 -
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12953">N개의 최소공배수</a>
 
+> 5월 27일 - Level2 -
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/76502">괄호 회전하기</a>
+
+> 5월 28일 - Level2 -
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/17680">[1차] 캐시</a>
+
+> 5월 29일 - Level2 -
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/84512">모음사전</a>
+
+> 5월 30일 - Level2 -
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/42584">주식가격</a>
+
+> 5월 31일 - Level2 -
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/132265">롤케이크 자르기</a>
+
 </details>

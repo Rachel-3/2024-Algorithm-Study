@@ -12,7 +12,6 @@
 - 윤채림 (@Rachel-3)
 - 김도현 (@pental)
 - 안석주 (@Ahnsukjoo)
-- 박용현 (@still_piber)
 - 한임경 (@conycomy)
 - 정성원 (@seongwonjung)
 

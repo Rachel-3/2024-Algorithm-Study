@@ -191,3 +191,21 @@
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/132265">롤케이크 자르기</a>
 
 </details>
+
+### 6월
+<details>
+<summary>접기/펼치기</summary>
+
+> 6월 3일 - Level2 -
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/178870">연속된 부분 수열의 합</a>
+
+> 6월 4일 - Level2 -
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/176962">과제 진행하기</a>
+
+> 6월 5일 - Level2 -
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/155651">호텔 대실</a>
+
+> 6월 7일 - Level2 -
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/169199">리코쳇 로봇</a>
+
+</details>

@@ -1,9 +1,11 @@
-def solution(arr, idx):
-    answer = -1
+def solution(picture, k):
+    answer = []
 
-    for i in range(idx, len(arr)):
-        if arr[i] == 1:
-            answer = i
-            break
-    
+    for i in picture:
+        pic = ""
+        for j in i:
+            pic += j * k
+        for _ in range(k):
+            answer.append(pic)
+
     return answer

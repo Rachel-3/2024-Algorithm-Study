@@ -48,3 +48,7 @@ Writer : 윤채림
 Email : cofla226@naver.com  
 
 Contributer : 김도현
+
+## 라이선스
+
+이 프로젝트는 MIT 라이선스에 따라 라이선스가 부여됩니다. 자세한 내용은 [LICENSE](./LICENSE) 파일을 참조하세요.
